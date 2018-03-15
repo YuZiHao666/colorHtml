@@ -1,0 +1,7 @@
+<div style=" background:#F00;">赤</div>
+<div style=" background:#F60;">橙</div>
+<div style=" background:#FF0;">黄</div>
+<div style=" background:#0C0;">绿</div>
+<div style=" background:#699;">青</div>
+<div style=" background:#06C;">蓝</div>
+<div style=" background:#909;">紫</div>
